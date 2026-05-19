@@ -59,15 +59,15 @@
 
     - 🌟百万搭建:
         - PurePage:
-            href: https://purepage.baiwan.de
+            href: https://ds.baiwan.de
             description: 百万的博客
-            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/purepage.png
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/docsify.svg
         - OuonnkiTV:
             href: https://tv.baiwan.de
             description: 百万的免费视频网站
             icon: https://tv.ouonnki.com/favicon.ico
         - shadowrocket 账号:
-            href: https://apple-id.baiwan.deno.net
+            href: https://apple.baiwan.de
             description: 免费小火箭 Apple 账号
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/shadowrocket.webp
         - Converter:
@@ -163,6 +163,10 @@
             href: https://gemini.google.com
             description: Gemini 多模态大模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini-color.png
+        - DeepSeek:
+            href: https://chat.deepseek.com
+            description: DeepSeek 大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek-color.png
         - Google AI Studio:
             href: https://aistudio.google.com
             description: Gemini AI Studio
@@ -183,10 +187,6 @@
             href: https://www.doubao.com
             description: 豆包大语言模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/doubao-color.png
-        - DeepSeek:
-            href: https://chat.deepseek.com
-            description: DeepSeek 大语言模型
-            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek-color.png
         - Kimi:
             href: https://www.kimi.com
             description: Kimi 大语言模型
